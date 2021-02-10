@@ -23,7 +23,7 @@ $ pip install zotero-cli
 If you want to try the bleeding-edge version:
 
 ```
-$ pip install git+git://github.com/jbaiter/zotero-cli.git@master
+$ pip install git+git://github.com/stanso/zotero-cli.git@tssu
 ```
 
 ## Usage
